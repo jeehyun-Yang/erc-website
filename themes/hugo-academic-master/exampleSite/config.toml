@@ -1,8 +1,7 @@
-baseURL = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-languageCode = "en-us"
+baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
-theme = "hugo-academic-master"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
