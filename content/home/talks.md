@@ -1,12 +1,12 @@
-+++
+<!-- +++
 # Recent and Upcoming Talks widget.
 
-date = "2016-04-20T00:00:00"
+<!-- date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
-widget = "talks"
+widget = "talks" -->
 
 # Order that this section will appear in.
 weight = 30
@@ -19,5 +19,4 @@ count = 10
 #   1 = Detailed
 list_format = 0
 
-+++
-
++++ -->
